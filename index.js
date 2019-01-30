@@ -15,9 +15,11 @@ return a / b
 }
 
 function inc(n) {
-return n+=
+var n = a
+return a+=
 }
 
 function dec(n) {
-return n-=
+var n = a
+return a-=
 }
